@@ -1,6 +1,7 @@
 # App Layout
 
-A new Flutter project.
+Sistema desenvolvido como atividade da disciplina Desenvolvimento WEB
+(Ficou mais ou menos, revirei o código, mas não consegui centralizar as colunas)
 
 ## Getting Started
 
