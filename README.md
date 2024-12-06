@@ -2,7 +2,7 @@
 
 Sistema desenvolvido como atividade da disciplina Desenvolvimento WEB
 (Ficou mais ou menos, revirei o código, mas não consegui centralizar as colunas)
-(Agora eu consegu arrumar o código, está no repositório App-Layout-Certo)
+(Agora eu consegui arrumar o código, está no repositório App-Layout-Certo)
 
 ## Getting Started
 
